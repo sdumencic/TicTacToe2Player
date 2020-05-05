@@ -81,7 +81,7 @@ const calculateWinner = (squares) => {
     
     for(let i = 0; i < lines.length; ++i) {
         const[a, b, c] = lines[i];
-        if(squares[i] && squares[a] === squares[b] && squares[b] === squares[c]) {
+        if(lines[i] && squares[a] === squares[b] && squares[b] === squares[c]) {
             return squares[a];
         }
     }
