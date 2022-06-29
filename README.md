@@ -17,5 +17,5 @@ You will also see any lint errors in the console.
 - Praćenje tko je na redu: x ili o
 - Igra za 2 igrača
 
-<img src="https://i.ibb.co/dBTThHc/Fire-Shot-Capture-273-React-App-localhost.png" alt="Fire-Shot-Capture-273-React-App-localhost">
-<img src="https://i.ibb.co/hLkJ0Np/Fire-Shot-Capture-286-React-App-localhost.png" alt="Fire-Shot-Capture-286-React-App-localhost">
+<img src="images/1.png" alt="tictactoe">
+<img src="images/2.png" alt="tictactoe">
